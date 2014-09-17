@@ -1,0 +1,6 @@
+c:\users\terminator\documents\visual studio 2013\Projects\TwitchSharp\TwitchSharp\bin\Debug\TwitchSharp.exe.config
+c:\users\terminator\documents\visual studio 2013\Projects\TwitchSharp\TwitchSharp\bin\Debug\TwitchSharp.exe
+c:\users\terminator\documents\visual studio 2013\Projects\TwitchSharp\TwitchSharp\bin\Debug\TwitchSharp.pdb
+c:\users\terminator\documents\visual studio 2013\Projects\TwitchSharp\TwitchSharp\obj\Debug\TwitchSharp.csprojResolveAssemblyReference.cache
+c:\users\terminator\documents\visual studio 2013\Projects\TwitchSharp\TwitchSharp\obj\Debug\TwitchSharp.exe
+c:\users\terminator\documents\visual studio 2013\Projects\TwitchSharp\TwitchSharp\obj\Debug\TwitchSharp.pdb
